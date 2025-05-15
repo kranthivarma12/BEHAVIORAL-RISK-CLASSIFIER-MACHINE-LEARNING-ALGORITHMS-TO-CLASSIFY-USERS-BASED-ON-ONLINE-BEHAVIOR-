@@ -1,0 +1,2 @@
+# BEHAVIORAL-RISK-CLASSIFIER-MACHINE-LEARNING-ALGORITHMS-TO-CLASSIFY-USERS-BASED-ON-ONLINE-BEHAVIOR-
+I have noticed that a lot of cyber-attacks happen because of human errors or risky online behavior. The existing systems were not enough to catch these behaviors early. So, our team decided to build a project to automatically classify users as "Safe" or "Risky" based on their behavior, to help companies reduce security risks.
